@@ -1,0 +1,49 @@
+
+project :tinyone .
+
+
+
+Fonts :ptsans Regular 
+
+PTsans bold 
+
+helvetica Neue bold
+
+font-family: 'PT Sans', sans-serif;
+
+
+
+
+
+slider maping:
+
+xxl/xl/lg            md           sm /col
+
+h1  32                32           25 
+
+h2  20                 20             18
+
+p   16                16             15/16
+
+icon 42               42              35
+
+pd   100             100             60
+
+
+
+
+
+
+font-awesome 
+
+mobile icon :<i class="fa-solid fa-mobile-screen-button"></i>
+
+folder icon :  <i class="fa-solid fa-folder"></i>
+
+lemon:   <i class="fa-solid fa-lemon"></i>
+
+messsaage; <i class="fa-solid fa-envelope"></i>
+
+code : <i class="fa-solid fa-code"></i>
+
+download ; <i class="fa-solid fa-file-arrow-down"></i>
